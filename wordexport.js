@@ -24,7 +24,7 @@
 
             // Embed all images using Data URLs
             var images = Array();
-            var img = markup.find('img');
+            var img = new Image();  
             for (var i = 0; i < img.length; i++) {
                 // Calculate dimensions of output image
                 var w = Math.min(img[i].width, options.maxWidth);
