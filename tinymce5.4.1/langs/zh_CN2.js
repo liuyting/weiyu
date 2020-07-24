@@ -110,7 +110,7 @@ tinymce.addI18n('zh_CN',{
 "Learn more...": "\u4e86\u89e3\u66f4\u591a...",
 "You are using {0}": "\u4f60\u6b63\u5728\u4f7f\u7528 {0}",
 "Plugins": "\u63d2\u4ef6",
-"Handy Shortcuts": "\u5feb\u6377\u952e ",
+"Handy Shortcuts": "\u5feb\u6377\u952e",
 "Horizontal line": "\u6c34\u5e73\u5206\u5272\u7ebf",
 "Insert\/edit image": "\u63d2\u5165\/\u7f16\u8f91\u56fe\u7247",
 "Image description": "\u56fe\u7247\u63cf\u8ff0",
