@@ -989,7 +989,7 @@
         (i = e).ui ? (u = i).ui.registry.addToggleButton("formatpainter", {
             active: !1,
             icon: "format-painter",
-            tooltip: "Format Painter",
+            tooltip: "格式刷",
             onAction: function() {
                 return u.execCommand("mceToggleFormatPainter")
             },
@@ -1005,7 +1005,7 @@
         }) : (a = i).addButton("formatpainter", {
             active: !1,
             icon: "format-painter",
-            tooltip: "Format Painter",
+            tooltip: "格式刷",
             cmd: "mceToggleFormatPainter",
             onPostRender: function(r) {
                 a.on("FormatPainterToggle", function(e) {
